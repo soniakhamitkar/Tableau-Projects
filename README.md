@@ -42,4 +42,3 @@ A global health visualization project that compares countries across health indi
 To explore the dashboards:
 1. Download the `.twb` or `.twbx` files.
 2. Open them in Tableau Desktop or Tableau Public.
-3. 
